@@ -7,11 +7,11 @@ EMBEDDED PLAYER:
 
 ![embeddedTrailerplayer](https://github.com/KalvinWasUnoticed/Movie-Review-Site-using-Spring-REST-API-and-REACT-/assets/106133687/f9472a8e-95eb-4328-b476-08c028b6f34b)
 
-Review Posting:
+REVIEW POSTING:
 
 ![review](https://github.com/KalvinWasUnoticed/Movie-Review-Site-using-Spring-REST-API-and-REACT-/assets/106133687/5f16814f-d57b-4472-b1b5-f461a929054e)
 
-Flexible view:
+FLEXIBLE VIEW:
 
 ![resized view](https://github.com/KalvinWasUnoticed/Movie-Review-Site-using-Spring-REST-API-and-REACT-/assets/106133687/21043a5b-55fe-49f1-a105-cffd1a1cd5e5)
 
