@@ -14,3 +14,9 @@ Review Posting:
 Flexible view:
 
 ![resized view](https://github.com/KalvinWasUnoticed/Movie-Review-Site-using-Spring-REST-API-and-REACT-/assets/106133687/21043a5b-55fe-49f1-a105-cffd1a1cd5e5)
+
+
+Full-Stack Movie Review Web Application:
+
+This project is a full-stack movie review web application, leveraging Spring Boot for the backend and ReactJS for the frontend. The backend API, developed with Spring Boot, interacts with a MongoDB database to manage movie data and user reviews. It includes endpoints for fetching movie details by ID or IMDB ID and posting reviews. The backend is tested with postman. The frontend, built with ReactJS, provides a user-friendly interface for browsing movie details, watching trailers and posting reviews. The application is designed with a back and gold theme, featuring a carousel of movies and an embedded trailer player.
+
